@@ -1,5 +1,5 @@
 function checkForSpam(message) {
-  // Приводим строку к нижнему регистру для корректного поиска
+  
   const lowerCaseMessage = message.toLowerCase();
 
  
